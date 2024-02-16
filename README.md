@@ -1,0 +1,1 @@
+This repository should serve as an experimental preparation space for my ongoing bachelor thesis, revolving around the explanation of generated images in stable diffusion models.
