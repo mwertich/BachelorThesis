@@ -17,7 +17,7 @@ Boa;Constrictor found in tropical forests.
 Boar;Wilderness pig with tusks.
 Bobcat;Wild feline with tufted ears.
 Buffalo;Mighty grazer with a hefty build.
-Butterfly;Delicate flyer with colorful wings.
+Viper;Venomous, fanged snake.
 Buzzard;Scavenger with keen eyesight.
 Camel;Desert traveler with humps.
 Capybara;Giant rodent of South America.
@@ -56,7 +56,6 @@ Falcon;Speedy bird of prey.
 Ferret;Playful, elongated pet.
 Finch;Small songbird with a conical bill.
 Flamingo;Pink wader of wetlands.
-Fox;Clever canine with a bushy tail.
 Frog;Amphibian with a jump.
 Gazelle;Swift antelope with grace.
 Gecko;Climbing lizard with sticky toes.
@@ -114,7 +113,7 @@ Owl;Night-hunting bird of prey.
 Ox;Strong, farm laborer.
 Panda;Bamboo-eating, black-and-white bear.
 Panther;Elusive, melanistic big cat.
-Parrot;Talkative, colorful bird.
+Skunk;Defensive, spray-producing mammal.
 Peacock;Splendidly tailed bird.
 Pelican;Pouch-beaked water bird.
 Penguin;Tuxedo-clad, flightless bird.
@@ -122,7 +121,7 @@ Pheasant;Colorful, game bird.
 Pig;Snouty, farm animal.
 Pigeon;Urban-dwelling bird.
 Platypus;Odd egg-laying mammal.
-Porcupine;Spiny rodent.
+Salmon;Jumps upstream, but never down.
 Porpoise;Small, intelligent cetacean.
 Possum;Tree-climbing marsupial.
 Puffin;Clown-beaked seabird.
@@ -132,14 +131,13 @@ Rabbit;Long-eared, hopping mammal.
 Raccoon;Masked, nocturnal scavenger.
 Ram;Horned, male sheep.
 Rat;Adaptable, small rodent.
-Raven;Smart, black bird.
 Reindeer;Santa's sleigh puller.
 Rhinoceros;Heavy, horned mammal.
 Roadrunner;Fast, desert bird.
 Robin;Red-breasted songbird.
 Rooster;Dawn-crowing bird.
 Salamander;Amphibian with a regenerative ability.
-Salmon;Leaping, migratory fish.
+Porcupine;Spiny rodent.
 Sardine;Schooling, oily fish.
 Scorpion;Venomous, stinging arachnid.
 Seagull;Coastal, scavenging bird.
@@ -147,7 +145,7 @@ Seal;Marine, flippered mammal.
 Seahorse;Equine-headed marine fish.
 Shark;Predatory, sharp-toothed fish.
 Sheep;Wool-producing, farm animal.
-Skunk;Defensive, spray-producing mammal.
+Parrot;Mimics you, but doesn't understand.
 Sloth;Slow-moving, tree-dwelling mammal.
 Snail;Slow, shell-carrying mollusk.
 Snake;Legless, slithering reptile.
@@ -248,7 +246,7 @@ Tarsier;Large-eyed, nocturnal primate.
 Tenrec;Spiny, insectivorous mammal.
 Turaco;Colorful, fruit-eating bird.
 Vicuna;Wild, Andean camelid.
-Viper;Venomous, fanged snake.
+Butterfly;Delicate flyer with colorful wings.
 Warthog;Tusked, African wild pig.
 Wildcat;Untamed, small feline.
 Woodcock;Ground-dwelling, wading bird.
